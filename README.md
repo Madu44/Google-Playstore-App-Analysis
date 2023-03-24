@@ -107,3 +107,8 @@ In addition, it is recommended that apps with low reviews be optimized, particul
 Finally, by addressing the root cause of the problem and optimizing and monetizing apps where necessary, app developers can improve app performance, increase customer reviews, ratings, and installs, and ultimately drive growth and retention in the Google Play Store.
 
 
+## APPENDIX
+
+Tableau Data Visualization For Google Play App Performance Project
+
+https://public.tableau.com/views/GooglePlaystoreAppPerformanceAnalysisUpdated/GooglePlaystoreAppPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
